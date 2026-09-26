@@ -53,7 +53,7 @@ repository; the script documents what it expects.
 
 ## Credits
 
-DMC colour table: [sharlagelfand/dmc](https://github.com/sharlagelfand/dmc) (MIT). `BLANC` was added by hand.
+DMC colour table: [sharlagelfand/dmc](https://github.com/sharlagelfand/dmc) (MIT, see [LICENSE-dmc](LICENSE-dmc)). `BLANC` was added by hand.
 DMC is a trademark of DMC; this project is not affiliated with DMC.
 
 ## License
