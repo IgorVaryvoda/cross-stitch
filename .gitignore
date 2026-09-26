@@ -1,0 +1,10 @@
+__pycache__/
+# Charts and previews are generated
+*.pdf
+*_preview.png
+# Input images and reference charts belong to their authors; keep them local
+*.jpg
+*.jpeg
+*.png
+ref/
+donotopenlol/
